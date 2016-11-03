@@ -1,0 +1,15 @@
+{
+  "name": "bluefloyd",
+  "version": "1.0.0",
+  "description": "a simple music sync app using node and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies":
+  {"socket.io":"*",
+  "express":"*"
+  }
+}
